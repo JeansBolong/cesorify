@@ -1,0 +1,11 @@
+{
+  "author": "Wimpy Katana",
+  "name": "censorify",
+  "version": "0.1.1",
+  "description": "Censors a words out of text",
+  "main": "censortext",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
