@@ -1,4 +1,4 @@
 Hello !!
 
 
-create by: wimpy katana
+create by: wimpy katana / 2
