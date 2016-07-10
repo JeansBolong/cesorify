@@ -1,9 +1,14 @@
 {
   "author": "Wimpy Katana",
-  "name": "censorify",
+  "name": "censorify-wim",
   "version": "0.1.1",
   "description": "Censors a words out of text",
   "main": "censortext",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeansBolong/cesorify.git"
+  },
+  "keywords": ["censor","words"],
   "dependencies": {},
   "engines": {
     "node": "*"
